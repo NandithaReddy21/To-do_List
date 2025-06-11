@@ -18,3 +18,4 @@ A minimalist and responsive To-Do List app built using HTML, CSS, and JavaScript
 
 
 ## Preview
+[To-do List App Screenshot] (./screenshot.png)
