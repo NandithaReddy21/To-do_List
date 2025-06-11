@@ -1,4 +1,4 @@
-# To-do_List 
+# To-do List 
 
 A minimalist and responsive To-Do List app built using HTML, CSS, and JavaScript. It supports task creation, editing, deletion, completion tracking, and progress statistics - all persisted with local Storage.
 
